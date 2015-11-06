@@ -1,42 +1,26 @@
-Base path: C:/Program Files/Unity/Editor/Data
-Pipe name: \\.\pipe\UnityShaderCompiler-64bit-1-3896
+Base path: D:/Program Files/Unity/Editor/Data
+Pipe name: \\.\pipe\UnityShaderCompiler-64bit-1-5596
 Cmd: getPlatforms
 Cmd: preprocess
-  insize=3521 outsize=640 ok=1
+  insize=3680 outsize=673 ok=1
 Cmd: preprocess
-  insize=1164 outsize=384 ok=1
+  insize=1223 outsize=404 ok=1
 Cmd: preprocess
   error: 2 plat 18 at (40): Can't find include file frag_ao.cginc
   error: 2 plat 18 at (44): Can't find include file frag_ao.cginc
   error: 2 plat 18 at (48): Can't find include file frag_ao.cginc
   error: 2 plat 18 at (52): Can't find include file frag_ao.cginc
   error: 2 plat 18 at (57): Can't find include file frag_ao.cginc
-  insize=6511 outsize=781 ok=0
+  insize=6790 outsize=827 ok=0
 Cmd: preprocess
-  insize=1193 outsize=303 ok=1
+  insize=1262 outsize=322 ok=1
 Cmd: preprocess
-  insize=2235 outsize=619 ok=1
+  insize=2328 outsize=648 ok=1
 Cmd: preprocess
-  insize=6131 outsize=973 ok=1
+  insize=6423 outsize=1035 ok=1
 Cmd: preprocess
-  insize=6414 outsize=902 ok=1
+  insize=6723 outsize=952 ok=1
 Cmd: preprocess
-  insize=799 outsize=276 ok=1
+  insize=851 outsize=294 ok=1
 Cmd: preprocess
-  insize=1265 outsize=272 ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=977 outsize=4337 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=977 outsize=10813 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=977 outsize=5060 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF _NORMALMAP pd= ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=977 outsize=11601 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF _NORMALMAP pd= ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=982 outsize=4337 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF _EMISSION pd= ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=982 outsize=11138 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF _EMISSION pd= ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=1420 outsize=1379 kw= pd= ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=1420 outsize=1704 kw= pd= ok=1
+  insize=1331 outsize=291 ok=1
